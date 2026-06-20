@@ -1,0 +1,5 @@
+﻿# Rename this file to config.txt and fill in your values
+TenantId     = "your-tenant-id"
+ClientId     = "your-client-id"
+ClientSecret = "your-client-secret"
+Domain       = "yourdomain.onmicrosoft.com"
