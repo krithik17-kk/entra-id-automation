@@ -1,4 +1,4 @@
-@'
+
 # Entra ID User Lifecycle Automation
 
 Automates Active Directory user management in Microsoft Entra ID (Azure AD) using PowerShell and Microsoft Graph API.
